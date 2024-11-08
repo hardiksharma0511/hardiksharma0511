@@ -1,3 +1,4 @@
+![logo](https://github.com/hardiksharma0511/hardiksharma0511/blob/main/bgimage.jpeg)
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
 <h3 align="center">Passionate About Building with Code | Exploring Data Science & Development</h3>
 
