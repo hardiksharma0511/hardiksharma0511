@@ -23,6 +23,7 @@
 <a href="https://www.hackerearth.com/@hardikme1120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hardikme1120" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hardikmdg5z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardikmdg5z" height="30" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
@@ -41,35 +42,35 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-        <br /><sub><strong>Java</strong></sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
         <br /><sub><strong>Python</strong></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        <br /><sub><strong>JavaScript</strong></sub>
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+        <br /><sub><strong>Java</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+        <br /><sub><strong>HTML</strong></sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-        <br /><sub><strong>HTML5</strong></sub>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+        <br /><sub><strong>CSS</strong></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-        <br /><sub><strong>CSS3</strong></sub>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        <br /><sub><strong>JavaScript</strong></sub>
       </a>
     </td>
     <td align="center">
@@ -92,12 +93,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-        <br /><sub><strong>Git</strong></sub>
-      </a>
-    </td>
     <td align="center">
       <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
@@ -122,9 +117,16 @@
         <br /><sub><strong>Seaborn</strong></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+        <br /><sub><strong>Git</strong></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardiksharma0511&show_icons=true&locale=en&layout=compact" alt="hardiksharma0511" /></p>
 
